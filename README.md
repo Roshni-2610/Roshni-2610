@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Roshni-2610
 - 👀 I’m interested in EXPLORING
-- 🌱 I’m currently learning : AWS,PYTHON
+- 🌱 I’m currently learning : java
 - 📫 How to reach me : roshninaren26@gmail.com
+- languages known : HTML,CSS,python,AWS
 
 
 <!---
