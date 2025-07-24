@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Roshni-2610
 - 👀 I’m interested in EXPLORING
-- 🌱 I’m currently learning : game development using python
+- 🌱 I’m currently learning : AWS(Amazon Web Services)
 - 📫 How to reach me : roshninaren26@gmail.com
 - languages known : HTML,CSS,python,AWS
 
